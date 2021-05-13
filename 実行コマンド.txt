@@ -1,0 +1,13 @@
+envをpipでactivateする
+
+yolov5 のv4.0(tag)をcloneしている
+
+
+
+(env) C:\Users\yuki\Desktop\python\programs\sleep_check_prpgrams\yolov5x\yolov5>python detect.py --source C:\Users\yuki\Desktop\python\programs\sleep_check_prpgrams\data\nwcam\original\train_data\10588044_200122140112_L.mp4 --weights C:\Users\yuki\Desktop\python\programs\sleep_check_prpgrams\yolov5x\yolov5\weights\best-x.pt --conf 0.3 --view-img
+
+
+
+
+
+python detect.py --source C:\Users\yuki\Desktop\python\programs\sleep_check_prpgrams\data\002.MP4 --weights C:\Users\yuki\Desktop\python\programs\sleep_check_prpgrams\yolov5x\yolov5\weights\best-x.pt --conf 0.3 --view-img
